@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumarm15" alt="ramkumarm15" /></a> </p>
 
-- 🔭 I’m currently working on [REST API using NodeJS and Express](mockdataapi.herokuapp.com)
-
 - 🌱 I’m currently learning **ReactJS, NodeJS, Django**
 
 - 👨‍💻 All of my projects are available at [ramkumarm15.github.io](ramkumarm15.github.io)
