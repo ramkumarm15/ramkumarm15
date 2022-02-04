@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Django**
 
-- 👨‍💻 All of my projects are available at [ramkumarm15.github.io](ramkumarm15.github.io)
-
 - 💬 Ask me about **Python, Django, Javascript, HTML, CSS**
 
 - 📫 How to reach me **ramkumarmani2000@gmail.com**
-
-- 📄 Know about my experiences [ramkumarm15.github.io](ramkumarm15.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
